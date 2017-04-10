@@ -1,3 +1,3 @@
-/home/song/syy/25.jpg
+/home/song/song/25.jpg
 /home/song/syy/26.jpg
 hello python!!!
