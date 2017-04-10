@@ -1,4 +1,3 @@
 /home/song/song/25.jpg
 /home/song///ss26.jpg
-hello python!!!
-git initio
+hello pytho
