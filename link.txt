@@ -1,4 +1,4 @@
 /home/song/song/25.jpg
-/home/song/song/26.jpg
+/home/song/song//ss26.jpg
 hello python!!!
 git inition
